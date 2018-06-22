@@ -1,0 +1,19 @@
+{
+  "name": "Eshop",
+  "description": "A simple and powerful eshop solution written in Total.js / Node.js.",
+  "version": "8.0.0",
+  "main": "release.js",
+  "dependencies": {
+    "paypal-express-checkout": "^1.6.3",
+    "total.js": "^2.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eshop",
+    "ecommerce"
+  ],
+  "author": "Suman kunwar",
+  "license": "MIT"
+}
